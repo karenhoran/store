@@ -1,0 +1,22 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "eslint"
+  },
+  "keywords": [],
+  "author": "karen diaz",
+  "license": "ISC",
+  "devDependencies": {
+    "es": "^0.8.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "lint": "^0.7.0",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.7.1"
+  }
+}
